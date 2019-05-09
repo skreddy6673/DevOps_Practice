@@ -14,3 +14,5 @@ dimensions {
     InstanceId = "${aws_instance.my_instance.id}"
   }
 }
+
+# change values accordingly 
